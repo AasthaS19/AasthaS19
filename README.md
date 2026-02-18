@@ -1,18 +1,34 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AasthaS19/count.svg" alt="Visitor's Count" />
-</div>
-<!--
-**AasthaS19/AasthaS19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Aastha Sharma
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science (2023–2027)  
+🏫 DIT University, Dehradun  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java Developer | Learning Data Structures & Algorithms  
+🌱 Currently doing ServiceNow Virtual Internship  
+🚀 Focused on improving problem-solving skills  
+
+---
+
+## 🛠 Tech Stack
+- Java
+- Python
+- SQL
+
+---
+
+## 📌 Current Goals (2026)
+- Solve 200+ LeetCode problems
+- Build 3 strong Java projects
+- Improve DSA and OOPS concepts
+
+---
+
+## 📊 Currently Working On
+- DSA in Java
+- Building a Sudoku Game (Java)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aastha-sharma-36b042287
+- LeetCode: https://leetcode.com/Aastha19/
